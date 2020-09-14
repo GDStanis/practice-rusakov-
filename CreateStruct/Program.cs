@@ -26,7 +26,7 @@ namespace Praktika1
         }
         static void Main(string[] args)
         {
-            Person p = new Person("Tony", "Allen", 32);
+            Person p = new Person("George", "Dvorin", 18);
             Console.WriteLine(p);
         }
 
